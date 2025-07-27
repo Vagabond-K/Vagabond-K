@@ -26,5 +26,5 @@
 ## 💾 오픈소스 앱 개발
 - [VagaModbus Analyzer](https://github.com/Vagabond-K/VagaModbus): 심플하게 Modbus Slave 장치와 통신 테스트를 해볼 수 있는 프로그램 [Microsoft Store](https://apps.microsoft.com/store/detail/9pg8qtrlp62x?cid=github&mode=direct)
 
-## 📢 For Non-Korean Readers!
+## 🔊 For Non-Korean Readers!
 Since I’ve focused all my time on programming instead of studying English, most of the READMEs I’ve written are in Korean (except for code snippets, of course 😁). Fortunately, browser translation tools these days work really well. If you have trouble reading Korean, please feel free to use one. Thank you for your understanding. 😊
