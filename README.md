@@ -1,4 +1,4 @@
-# 김준형 (Joon-hyoung Kim)
+# 김준형 (Joon-hyoung Kim) [![Microsoft MVP](https://img.shields.io/badge/Microsoft%20MVP-.NET-blue)](https://mvp.microsoft.com/ko-kr/PublicProfile/6420657)
 🙋 뭔가 만드는 것을 좋아하는 사람으로, 대한민국 경남 창원의 어느 중소기업에서 20년째 개발자로 근무하고 있습니다. 개인적으로는 Vagabond K라는 이름으로 개발자 커뮤니티 활동을 하고 있으며, 블로그, GitHub, ~~YouTube~~ 및 기타 SNS를 통해 소통하고 있습니다.
 
 ## 💻 나에게 .NET이란?
