@@ -20,8 +20,10 @@
 - [SpatialInterpolationSample](https://github.com/Vagabond-K/SpatialInterpolationSample): GPU를 이용하여 공간 보간을 수행하고, 그 결과를 표시하는 WPF 프로그램
 - [VEGRARIS](https://github.com/Vagabond-K/VEGRARIS): Vector Graphics 기반 TETRIS 게임
 
-## 🎤 컨퍼런스 활동
-- .NET Conf 2025 × Seoul: GPU를 이용한 공간보간 Heat map 구현 사례 소개 [다시보기](https://youtu.be/Zm5M0Px0cKI) [발표자료](https://github.com/Vagabond-K/DotNetConf2025xSeoul)
+## 🎤 컨퍼런스 및 밋업 활동
+- .NET Conf 2025 × Seoul: GPU를 이용한 공간보간 Heat map 구현 사례 소개 [다시보기](https://youtu.be/Zm5M0Px0cKI) [발표자료](https://github.com/Vagabond-K/ConferenceResources/blob/main/Slides/GPU%EB%A5%BC%20%EC%9D%B4%EC%9A%A9%ED%95%9C%20%EA%B3%B5%EA%B0%84%EB%B3%B4%EA%B0%84%20Heat%20map%20%EA%B5%AC%ED%98%84%20%EC%82%AC%EB%A1%80%20%EC%86%8C%EA%B0%9C.pptx)
+- dot4 10월 밋업: .NET을 이용한 벡터 그래픽스 기반 컴포넌트 구현 사례 소개 [발표자료](https://github.com/Vagabond-K/ConferenceResources/blob/main/Slides/.NET%EC%9D%84%20%EC%9D%B4%EC%9A%A9%ED%95%9C%20%EB%B2%A1%ED%84%B0%20%EA%B7%B8%EB%9E%98%ED%94%BD%EC%8A%A4%20%EA%B8%B0%EB%B0%98%20%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8%20%EA%B5%AC%ED%98%84%20%EC%82%AC%EB%A1%80%20%EC%86%8C%EA%B0%9C.pptx)
+- .NET Conf 2025 @Seoul: WPF 사용자의 Web Front-end 적응기 - Blazor와 인라인 SVG, SMIL의 케미스트리 [발표자료](https://github.com/Vagabond-K/ConferenceResources/blob/main/Slides/WPF%20%EC%82%AC%EC%9A%A9%EC%9E%90%EC%9D%98%20Web%20Front-end%20%EC%A0%81%EC%9D%91%EA%B8%B0%20-%20Blazor%EC%99%80%20%EC%9D%B8%EB%9D%BC%EC%9D%B8%20SVG,%20SMIL%EC%9D%98%20%EC%BC%80%EB%AF%B8%EC%8A%A4%ED%8A%B8%EB%A6%AC.pptx)
 
 ## 💾 오픈소스 앱 개발
 - [VagaModbus Analyzer](https://github.com/Vagabond-K/VagaModbus): 심플하게 Modbus Slave 장치와 통신 테스트를 해볼 수 있는 프로그램 [Microsoft Store](https://apps.microsoft.com/store/detail/9pg8qtrlp62x?cid=github&mode=direct)
