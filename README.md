@@ -8,6 +8,7 @@
 - [VagabondK.Protocols](https://github.com/Vagabond-K/VagabondK.Protocols): 설비 모니터링 및 제어를 위한 통신 프로토콜 구현
 - [VagabondK.Interface](https://github.com/Vagabond-K/VagabondK.Interface): 설비와 C# 객체간 인터페이스(설비 데이터와 객체 속성간 매핑) 기능 구현
 - [VagabondK.Indicators](https://github.com/Vagabond-K/VagabondK.Indicators): 설비 데이터를 시각적으로 표현하기 위한 컴포넌트 라이브러리 구현
+- [VagabondK.OpenType](https://github.com/Vagabond-K/VagabondK.OpenType): 직선과 곡선을 직접 그려서 TTF 및 OTF 폰트 파일을 생성하기 위한 최소한의 기능 구현
 - VagabondK.Tagging: ⌛️개발 중, 트리 기반 설비 데이터 태그 및 인터페이스 관리 기능
 - VagabondK.Historians: ⌛️개발 중, 시계열 데이터 이력 저장 및 조회 기능
 - VagabondK.Presentation: ⌛️기획 중, 설비 모니터링 및 제어를 위한 화면 편집 기능
