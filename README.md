@@ -21,6 +21,7 @@
 - [SpatialInterpolationSample](https://github.com/Vagabond-K/SpatialInterpolationSample): GPU를 이용하여 공간 보간을 수행하고, 그 결과를 표시하는 WPF 프로그램
 - [VEGRARIS](https://github.com/Vagabond-K/VEGRARIS): Vector Graphics 기반 TETRIS 게임
 - [RemoteAC](https://github.com/Vagabond-K/RemoteAC): AI 에이전트로 조작 가능한 Geekble Mini ESP32-C3 기반 에어컨 리모컨
+- [DigiFont](https://vagabond-k.github.io/DigiFont/): 디지털 문자 폰트를 사용자 취향대로 조정해서 폰트 파일로 저장하는 기능을 제공하는 Blazor 웹 어셈블리 앱
 
 ## 🎤 컨퍼런스 및 밋업 활동
 - .NET Conf 2025 × Seoul: GPU를 이용한 공간보간 Heat map 구현 사례 소개 [다시보기](https://youtu.be/Zm5M0Px0cKI) [발표자료](https://github.com/Vagabond-K/ConferenceResources/blob/main/Slides/GPU%EB%A5%BC%20%EC%9D%B4%EC%9A%A9%ED%95%9C%20%EA%B3%B5%EA%B0%84%EB%B3%B4%EA%B0%84%20Heat%20map%20%EA%B5%AC%ED%98%84%20%EC%82%AC%EB%A1%80%20%EC%86%8C%EA%B0%9C.pptx)
